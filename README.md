@@ -12,7 +12,6 @@ I am currently learning in Computer Science Engineering from 42paris.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 # My Favorite OS
@@ -25,7 +24,7 @@ I am currently learning in Computer Science Engineering from 42paris.
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
 # My Github stats
-![https://github-readme-stats.vercel.app/api/top-langs/?username=Melvin42&hide=php,javascript&layout=compact&theme=solarized-dark&show](https://github-readme-stats.vercel.app/api/top-langs/?username=Melvin42&layout=compact&theme=solarized-dark&show)
+![https://github-readme-stats.vercel.app/api/top-langs/?username=Melvin42&hide=php&layout=compact&theme=solarized-dark&show](https://github-readme-stats.vercel.app/api/top-langs/?username=Melvin42&layout=compact&theme=solarized-dark&show)
 
 [![https://github-readme-stats.vercel.app/api?username=Melvin42&theme=solarized-dark&show_icons=true](https://github-readme-stats.vercel.app/api?username=Melvin42&theme=solarized-dark&show_icons=true)]([https://github.com/anuraghazra/github-readme-stats,)
 
