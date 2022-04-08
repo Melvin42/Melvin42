@@ -25,7 +25,7 @@ I am currently learning in Computer Science Engineering from 42paris.
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
 # My Github stats
-![https://github-readme-stats.vercel.app/api/top-langs/?username=Melvin42&layout=compact&theme=solarized-dark&show](https://github-readme-stats.vercel.app/api/top-langs/?username=Melvin42&layout=compact&theme=solarized-dark&show)
+![https://github-readme-stats.vercel.app/api/top-langs/?username=Melvin42&hide=php,javascript&layout=compact&theme=solarized-dark&show](https://github-readme-stats.vercel.app/api/top-langs/?username=Melvin42&layout=compact&theme=solarized-dark&show)
 
 [![https://github-readme-stats.vercel.app/api?username=Melvin42&theme=solarized-dark&show_icons=true](https://github-readme-stats.vercel.app/api?username=Melvin42&theme=solarized-dark&show_icons=true)]([https://github.com/anuraghazra/github-readme-stats,)
 
