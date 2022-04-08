@@ -25,9 +25,9 @@ I am currently learning in Computer Science Engineering from 42paris.
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
 # My Github stats
-![https://github-readme-stats.vercel.app/api/top-langs/?username=melperri&layout=compact&theme=solarized-dark&show](https://github-readme-stats.vercel.app/api/top-langs/?username=melperri&layout=compact&theme=solarized-dark&show)
+![https://github-readme-stats.vercel.app/api/top-langs/?username=Melvin42&layout=compact&theme=solarized-dark&show](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=solarized-dark&show)
 
-[![https://github-readme-stats.vercel.app/api?username=melperri&theme=solarized-dark&show_icons=true](https://github-readme-stats.vercel.app/api?username=melperri&theme=solarized-dark&show_icons=true)]([https://github.com/anuraghazra/github-readme-stats,)
+[![https://github-readme-stats.vercel.app/api?username=Melvin42&theme=solarized-dark&show_icons=true](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=solarized-dark&show_icons=true)]([https://github.com/anuraghazra/github-readme-stats,)
 
 # 42's Stats
 [![melperri's 42 stats](https://badge42.vercel.app/api/v2/stats/cl1hsqgpd003009jk5nbucmni?cursusId=21)](https://github.com/JaeSeoKim/badge42)
