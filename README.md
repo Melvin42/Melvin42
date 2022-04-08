@@ -25,28 +25,16 @@ I am currently learning in Computer Science Engineering from 42paris.
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
 # My Github stats
-![Sreevishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreevishnu-ux&hide=issues&show_icons=true&theme=gotham)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreevishnu-ux&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+<summary> 📊 Github Profile Stats </summary>
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@sreevishnu_ux/79cd408d-2c54-421e-aef3-ef0007369468.png" width = 400px /></a>
+  
 
+![https://github-readme-stats.vercel.app/api/top-langs/?username=Fr0ggym4n&layout=compact&theme=solarized-dark&show](https://github-readme-stats.vercel.app/api/top-langs/?username=Melvin42&layout=compact&theme=solarized-dark&show)
 
+[![https://github-readme-stats.vercel.app/api?username=Melvin42&theme=solarized-dark&show_icons=true](https://github-readme-stats.vercel.app/api?username=Melvin42&theme=solarized-dark&show_icons=true)]([https://github.com/anuraghazra/github-readme-stats,)
 
+</details>
 
-<p>Connect with me on
-<br>	
-<a target="_blank" href="https://www.linkedin.com/in/sreevishnu-t-84b335173/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank" href="https://twitter.com/t_sreevishnu"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
-
-<br>
-</p>
-
-------
-
-Credit: [sreevishnu-ux](https://github.com/sreevishnu-ux)
-
-Last Edited on: 17/07/2021
-
-# melperri
+# 42's Stats
 [![melperri's 42 stats](https://badge42.vercel.app/api/v2/stats/cl1hsqgpd003009jk5nbucmni?cursusId=21)](https://github.com/JaeSeoKim/badge42)
