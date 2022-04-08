@@ -24,7 +24,7 @@ I am currently learning in Computer Science Engineering from 42paris.
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 # My Github stats
-![https://github-readme-stats.vercel.app/api/top-langs/?username=Melvin42&hide=php,javascript,css,html,scss,twig&layout=compact&theme=radical&show](https://github-readme-stats.vercel.app/api/top-langs/?username=Melvin42&hide=php,javascript,css,html,scss,twig&layout=compact&theme=radical&show)
+![https://github-readme-stats.vercel.app/api/top-langs/?username=Melvin42&hide=php,javascript,css,html,scss,twig,roff&layout=compact&theme=radical&show](https://github-readme-stats.vercel.app/api/top-langs/?username=Melvin42&hide=php,javascript,css,html,scss,twig,roff&layout=compact&theme=radical&show)
 
 [![https://github-readme-stats.vercel.app/api?username=Melvin42&theme=radical&show_icons=true](https://github-readme-stats.vercel.app/api?username=Melvin42&theme=radical&show_icons=true)]([https://github.com/anuraghazra/github-readme-stats,)
 
