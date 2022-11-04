@@ -1,9 +1,9 @@
 # Hello :wave:, I am Melvin 😃 
-- A 42 Paris's student :sparkles:
-- A Game Developer incoming :computer:
+- A 42Paris's student :sparkles:
+- A futur Game Developer :computer:
 
 # About me
-I am currently learning in Computer Science Engineering from 42paris. 
+I am currently learning in Computer Science Engineering from 42Paris. 
 
 # Technologies used
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
