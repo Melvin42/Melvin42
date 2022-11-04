@@ -1,5 +1,5 @@
 # Hello :wave:, I am Melvin 😃 
-- A 42's student :sparkles:
+- A 42 Paris's student :sparkles:
 - A Game Developer incoming :computer:
 
 # About me
