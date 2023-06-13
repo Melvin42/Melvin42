@@ -1,6 +1,6 @@
 # Hello :wave:, I am Melvin 😃 
 - A 42Paris's student :sparkles:
-- A futur Game Developer :computer:
+- A Futur CyberSecurity ReSearcher :computer:
 
 # About me
 I am currently learning in Computer Science Engineering from 42Paris. 
