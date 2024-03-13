@@ -26,6 +26,3 @@ I am currently learning in Computer Science Engineering from 42Paris.
 ![https://github-readme-stats.vercel.app/api/top-langs/?username=Melvin42&hide=php,javascript,css,html,scss,twig,roff&layout=compact&theme=radical&show](https://github-readme-stats.vercel.app/api/top-langs/?username=Melvin42&hide=php,javascript,css,html,scss,twig,roff&layout=compact&theme=radical&show)
 
 [![https://github-readme-stats.vercel.app/api?username=Melvin42&theme=radical&show_icons=true](https://github-readme-stats.vercel.app/api?username=Melvin42&theme=radical&show_icons=true)]([https://github.com/anuraghazra/github-readme-stats,)
-
-# 42's Stats
-[![melperri's 42 stats](https://badge42.vercel.app/api/v2/stats/cl1hsqgpd003009jk5nbucmni?cursusId=21)](https://github.com/JaeSeoKim/badge42)
